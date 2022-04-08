@@ -2,7 +2,7 @@
 Great learning Capstone Project - Computer Vision: Object Detection (Car)
 
 
-# Follow the below steps to load Streamlit App in local.
+## Follow the below steps to load Streamlit App in local.
 1. Clone the repository
 3. Create a python virtual environment (pyenv) and 
 4. Go to `webapp` directory.
